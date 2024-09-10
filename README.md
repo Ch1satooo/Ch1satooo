@@ -1,8 +1,8 @@
 ## Hi there 👋, Welcome!
 
-My name is **Ziyi**, a newcomer learning programming.
+My name is **Ziyi**, a newcomer learning programming💖.
 
-- 🔭 I'm currently studying at the University of Melbourne💖.
+- 🔭 I'm currently studying at the University of Melbourne.
 - 📖 I’m currently learning English.
 
 <!--
